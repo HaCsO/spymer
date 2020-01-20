@@ -15,7 +15,7 @@ then
 	pkg install python3-pip
 	pip3 install requests
 	pip3 install colorama
-    pip3 install asyncio
+	pip3 install asyncio
 	cp ~/spymer/spammer.py /data/data/com.termux/files/usr/bin/spymer
 	dos2unix /data/data/com.termux/files/usr/bin/spymer
 	chmod 777 /data/data/com.termux/files/usr/bin/spymer
@@ -30,7 +30,7 @@ else
 			apt install python3 python3-pip
 			pip3 install requests
 			pip3 install colorama
-		            pip3 install asyncio
+		        pip3 install asyncio
 			cp ~/spymer/spammer.py /usr/bin/spymer
 			dos2unix /usr/bin/spymer
 			chmod 777 /usr/bin/spymer
