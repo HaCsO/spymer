@@ -13,6 +13,7 @@ then
 	pkg install python
 	pkg install python3
 	pkg install python3-pip
+	pkg install dos2unix
 	pip3 install requests
 	pip3 install colorama
 	pip3 install asyncio
@@ -27,6 +28,7 @@ else
 			echo "У вас нет прав. Запустите install.sh с root правами (sudo sh ~/spymer/install.sh)"
 			exit
 		else
+			apt install dos2unix
 			apt install python3 python3-pip
 			pip3 install requests
 			pip3 install colorama
