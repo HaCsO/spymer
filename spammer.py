@@ -174,8 +174,7 @@ https://github.com/crinny
 				asyncio.run(part17())
 				iteration += 1
 				print(('{} круг пройден.').format(iteration))
-			except Exception as e:
-				print(e)
+			except Exception:
 				pass
 spammer = spymer()
 spammer.main()
