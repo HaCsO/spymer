@@ -1,9 +1,8 @@
 # Spymer
 Многопоточный SMS-спамер<br>
 Только для России!<br><i>(но можете попробовать и для Украины или Казахстана)</i><br>
-Связь со мной в <a href="https://t-do.ru/FSystem88">Telegram</a> или <a href="https://vk.com/fsys88">Вконтакте</a><br>
-Новости об обновлениях на <a href="https://t-do.ru/spymer">канале в Telegram</a><br>
-<b>Обязательно подпишитесь на канал в телеграме, так как именно там я пишу когда надо обновиться, чтобы сервисов было больше!</b><br><br>
+Связь со мной в <a href="https://t-do.ru/master_hacso">Telegram</a> или <a href="https://vk.com/hacso">Вконтакте</a><br>
+<br><br>
 # Донатерная
 <b>Кому не жалко копейку на развитие проекта:</b><br>
 http://FSystem88.ru/donate
