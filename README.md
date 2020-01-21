@@ -17,12 +17,12 @@ https://paypal.me/FSystem88
 • <code>apt update</code><br>
 • <code>apt upgrade</code><br>
 • <code>apt install git</code><br>
-• <code>git clone https://github.com/FSystem88/spymer</code><br>
+• <code>git clone https://github.com/HaCsO/spymer</code><br>
 • <code>sh spymer/install.sh</code><br>
-• <code>spymer phone</code><br>
+• <code>python spammer.py phone</code><br>
 <br>
 <b>Пример:</b><br>
-<code>spymer 79991234455</code><br><br>
+<code>python spammer.py 79991234455</code><br><br>
 Будут вопросы - контакты выше.<br>
 <b>Приятного пользования!</b>
 <br><br>
