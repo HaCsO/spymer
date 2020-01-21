@@ -1,5 +1,5 @@
 # Spymer
-SMS-спамер<br>
+Многопоточный SMS-спамер<br>
 Только для России!<br><i>(но можете попробовать и для Украины или Казахстана)</i><br>
 Связь со мной в <a href="https://t-do.ru/FSystem88">Telegram</a> или <a href="https://vk.com/fsys88">Вконтакте</a><br>
 Новости об обновлениях на <a href="https://t-do.ru/spymer">канале в Telegram</a><br>
@@ -34,3 +34,5 @@ https://paypal.me/FSystem88
 <br>
 # LICENSE 
 Лицензия есть и не ебёт, пошли все нахуй!
+# Threadings
+Многопотоки бай HaCsO
